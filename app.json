@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "MyCVApp",
+    "slug": "MyCVApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3067/3067260.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "https://cdn-icons-png.flaticon.com/512/3067/3067260.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://cdn-icons-png.flaticon.com/512/3067/3067260.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.gutt12.MyCVApp"
+    },
+    "web": {
+      "favicon": "https://cdn-icons-png.flaticon.com/512/3067/3067260.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5eb67c43-ca61-4730-8d9a-ddb82e8a35bc"
+      }
+    }
+  }
+}

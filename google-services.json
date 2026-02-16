@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427753172814",
+    "project_id": "tesrt2-e7f4d",
+    "storage_bucket": "tesrt2-e7f4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427753172814:android:31c491fae8653bab53f81f",
+        "android_client_info": {
+          "package_name": "appcv.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAC7A_HIhA8HgxKwtFeipWNj06ohrsAn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
